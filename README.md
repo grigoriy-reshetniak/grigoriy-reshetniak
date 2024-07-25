@@ -1,4 +1,4 @@
-## Hi there, I'm [Your Name]! 👋
+## Hi there, I'm Grigoriy Reshetniak! 👋
 
 I'm a software engineer with 7 years of experience.
 
