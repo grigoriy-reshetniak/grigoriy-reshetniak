@@ -1,6 +1,6 @@
-## Hi there, I'm Grigoriy Reshetniak! 👋
+## Hi there, I'm Grigoriy Reshetniak!
 
-I'm a software engineer with 7 years of experience.
+I'm a software engineer with 8 years of experience.
 
 ### What I Do
 
